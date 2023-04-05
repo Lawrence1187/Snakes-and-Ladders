@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Snakes and Ladders", "Snakes and Ladders.vcxproj", "{F59AF01A-8FFF-4F6B-829C-781FA7777474}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F59AF01A-8FFF-4F6B-829C-781FA7777474}.Debug|x64.ActiveCfg = Debug|x64
+		{F59AF01A-8FFF-4F6B-829C-781FA7777474}.Debug|x64.Build.0 = Debug|x64
+		{F59AF01A-8FFF-4F6B-829C-781FA7777474}.Debug|x86.ActiveCfg = Debug|Win32
+		{F59AF01A-8FFF-4F6B-829C-781FA7777474}.Debug|x86.Build.0 = Debug|Win32
+		{F59AF01A-8FFF-4F6B-829C-781FA7777474}.Release|x64.ActiveCfg = Release|x64
+		{F59AF01A-8FFF-4F6B-829C-781FA7777474}.Release|x64.Build.0 = Release|x64
+		{F59AF01A-8FFF-4F6B-829C-781FA7777474}.Release|x86.ActiveCfg = Release|Win32
+		{F59AF01A-8FFF-4F6B-829C-781FA7777474}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72112F0D-6B99-470F-875B-D14DBB9BC7B3}
+	EndGlobalSection
+EndGlobal
